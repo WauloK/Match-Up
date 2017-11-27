@@ -1,0 +1,27 @@
+<svg>
+  <rect id ="bgColour" class ="bgColour" x="0" y="0" width="100%" height="100%" fill="#007F46" />
+  <image id="Header" class="Header" href="MatchUp_Header.png" />
+  <image id="startButton" class="startButton" href="Start_Button.png" pointer-events="visible" />
+  <image id="OziByteLogo" class="OziByteLogo" href="OziByteLogoFB.png" />
+  
+  <image id="Card0" class="Card0" href="cardBack-One.png" />
+  <image id="Card1" class="Card1" href="cardBack-One.png" />
+  <image id="Card2" class="Card3" href="cardBack-One.png" />
+  <image id="Card3" class="Card3" href="cardBack-One.png" />
+  <image id="Card4" class="Card4" href="cardBack-One.png" />
+  <image id="Card5" class="Card5" href="cardBack-One.png" />
+  <image id="Card6" class="Card6" href="cardBack-One.png" />
+  <image id="Card7" class="Card7" href="cardBack-One.png" />
+  <image id="Card8" class="Card8" href="cardBack-One.png" />
+  <image id="Card9" class="Card9" href="cardBack-One.png" />
+  <image id="Card10" class="Card10" href="cardBack-One.png" />
+  <image id="Card11" class="Card11" href="cardBack-One.png" />
+  <image id="Card12" class="Card12" href="cardBack-One.png" />
+  <image id="Card13" class="Card13" href="cardBack-One.png" />
+  <image id="Card14" class="Card14" href="cardBack-One.png" />
+  <image id="Card15" class="Card15" href="cardBack-One.png" />
+  
+  <image id="restartButton" class="restartButton" href="Restart_Button.png" pointer-events="visible" />
+  
+  <rect id="myButton" width="100%" height="100%" fill="none" pointer-events="visible" />
+</svg>

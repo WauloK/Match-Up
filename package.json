@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "dd9f63cb-1469-4440-8fb2-64a1abda406c",
+    "appType": "app",
+    "appDisplayName": "Match Up",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "Match Up"
+      }
+    }
+  }
+}

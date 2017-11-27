@@ -1,0 +1,147 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+#Header {
+  x: 0;
+  y: 2;
+  width: 348;
+  height: 94;
+}
+
+#startButton {
+  x: 65;
+  y: 105;
+  width: 217;
+  height: 50;
+}
+
+#restartButton {
+  x: 298;
+  y: 200;
+  width: 50;
+  height: 50;
+}
+
+#OziByteLogo {
+  x: 0;
+  y: 161;
+  width: 348;
+  height: 89;
+}
+
+#Card0 {
+  x: 50;
+  y: 1;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card1 {
+  x: 112;
+  y: 1;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card2 {
+  x: 174;
+  y: 1;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card3 {
+  x: 236;
+  y: 1;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card4 {
+  x: 50;
+  y: 63;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card5 {
+  x: 112;
+  y: 63;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card6 {
+  x: 174;
+  y: 63;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card7 {
+  x: 236;
+  y: 63;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card8 {
+  x: 50;
+  y: 125;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card9 {
+  x: 112;
+  y: 125;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card10 {
+  x: 174;
+  y: 125;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card11 {
+  x: 236;
+  y: 125;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card12 {
+  x: 50;
+  y: 187;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card13 {
+  x: 112;
+  y: 187;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card14 {
+  x: 174;
+  y: 187;
+  width: 60;
+  height: 60;
+  display: none;
+}
+#Card15 {
+  x: 236;
+  y: 187;
+  width: 60;
+  height: 60;
+  display: none;
+}
