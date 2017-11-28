@@ -27,10 +27,10 @@ let cardFace = "Trees";
 let cardBack = "One";
 
 // Load saved settings
-cardBack = settings.loadCardBack(cardBack);
-cardFace = settings.loadCardFace(cardFace);
 prefs.cardFaceChanged = false;
 prefs.cardBackChanged = false;
+cardBack = settings.loadCardBack(cardBack,cardArray);
+cardFace = settings.loadCardFace(cardFace,cardArray,cardsShowingArray);
 
 // Store card values
 let cardPicked1 = 0;

@@ -32,18 +32,18 @@ messaging.peerSocket.onopen = function() {
   //console.log("Connection to Companion open!!");
 }
 
-export function loadCardBack(cardBack) {
+export function loadCardBack(cardBack,cardsShowingArray) {
   if (typeof prefs.cardBack !== "undefined") {
   cardBack = prefs.cardBack;
-  updateCardBacks(cardBack,cardsShowingArray);
+  prefs.cardBackChanged = true;
   }
   return cardBack;
 }
 
-export function loadCardFace(cardFace) { 
+export function loadCardFace(cardFace,cardArray,cardsShowingArray) { 
 if (typeof prefs.cardFace !== "undefined") {
   cardFace = prefs.cardFace;
-  updateCardFaces(cardFace,cardArray,cardsShowingArray);
+  prefs.cardFaceChanged = true;
   }
   return cardFace;
 }

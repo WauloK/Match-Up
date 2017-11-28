@@ -21,7 +21,7 @@
   <image id="Card14" class="Card14" href="cardBack-One.png" />
   <image id="Card15" class="Card15" href="cardBack-One.png" />
   
-  <image id="restartButton" class="restartButton" href="Restart_Button.png" pointer-events="visible" />
+  <image id="restartButton" class="restartButton" href="Restart_Button.png" pointer-events="visible" display="none" layer="1" />
   
   <rect id="myButton" width="100%" height="100%" fill="none" pointer-events="visible" />
 </svg>
